@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@cloudflare/vitest-pool-workers": "^0.16.15",
-    "vitest": "4.1.8"
+    "vitest": "5.0.4"
   },
   "types": "dist/index.d.ts",
   "exports": {
